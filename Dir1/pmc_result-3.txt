@@ -1,0 +1,124 @@
+
+PMC - PMC3246280
+PMID- 22203824
+IS  - 1664-5464 (Electronic)
+VI  - 1
+IP  - 1
+DP  - 2011 Jan-Dec
+TI  - Long Latency and High Variability in Accuracy-Speed of Prosaccades in Alzheimer's
+      Disease at Mild to Moderate Stage.
+PG  - 318-29
+AB  - Background: Studying saccades is a useful tool to investigate brain function.
+      There is still controversy regarding deficits in prosaccades in Alzheimer's
+      disease (AD), and a study of saccades in subjects with mild cognitive impairment 
+      (MCI) has not been published to date. Methods: We examined horizontal saccades in
+      10 healthy elderly, and 9 MCI and 9 AD patients. Two tasks were used: gap
+      (fixation target extinguishes prior to target onset) and overlap (fixation stays 
+      on after target onset). Eye movements were recorded with the Skalar IRIS system. 
+      Results: (1) Latencies were shorter in the gap than in the overlap task (a gap
+      effect) in all three groups of subjects: healthy elderly, MCI and AD; (2) for
+      both tasks, latency of saccades was longer for AD patients than for healthy and
+      MCI subjects, and (3) accuracy and mean velocity were normal in MCI and AD
+      subjects, however, variability in accuracy-speed was higher for AD patients than 
+      for healthy and MCI subjects in the overlap task. Conclusions: Abnormalities in
+      reaction time and accuracy-speed variability reflect deficits in cerebral areas
+      involved in the triggering and execution of saccades; a saccade test can be
+      useful to follow up the evolution of MCI subjects as some of them may develop AD 
+      disease.
+FAU - Yang, Qing
+AU  - Yang Q
+AD  - IRIS Group, UMR 8194, CNRS, Hôpital Européen Georges Pompidou, Paris, France
+FAU - Wang, Tao
+AU  - Wang T
+AD  - Geriatric Psychiatry Department, Shanghai Mental Health Center, Shanghai Jiaotong
+      University School of Medicine, Shanghai, China
+FAU - Su, Ning
+AU  - Su N
+AD  - Geriatric Psychiatry Department, Shanghai Mental Health Center, Shanghai Jiaotong
+      University School of Medicine, Shanghai, China
+FAU - Liu, Yuanyuan
+AU  - Liu Y
+AD  - Geriatric Psychiatry Department, Shanghai Mental Health Center, Shanghai Jiaotong
+      University School of Medicine, Shanghai, China
+FAU - Xiao, Shifu
+AU  - Xiao S
+AD  - Geriatric Psychiatry Department, Shanghai Mental Health Center, Shanghai Jiaotong
+      University School of Medicine, Shanghai, China
+FAU - Kapoula, Zoi
+AU  - Kapoula Z
+AD  - IRIS Group, UMR 8194, CNRS, Hôpital Européen Georges Pompidou, Paris, France
+LA  - eng
+PT  - Journal Article
+DEP - 20111020
+TA  - Dement Geriatr Cogn Dis Extra
+JT  - Dementia and Geriatric Cognitive Disorders EXTRA
+AID - 10.1159/000333080 [doi]
+AID - dee0001-0318 [pii]
+SO  - Dement Geriatr Cogn Dis Extra. 2011 Oct 20;1(1):318-29. doi:10.1159/000333080.
+
+PMC - PMC3705110
+PMID- 22576337
+IS  - 0161-9152 (Print)
+IS  - 1574-4647 (Electronic)
+VI  - 35
+IP  - 4
+DP  - 2013 Aug
+TI  - Specific saccade deficits in patients with Alzheimer’s disease at mild to
+      moderate stage and in patients with amnestic mild cognitive impairment.
+PG  - 1287-98
+AB  - Saccadic impairment in Alzheimer’s disease (AD) was found in horizontal saccades.
+      The present study extends investigation to vertical saccades in a large number of
+      subjects, including AD and amnestic mild cognitive impairment (aMCI). We examined
+      both horizontal and vertical saccades in 30 healthy elderly, 18 aMCI, and 25 AD. 
+      Two tasks were used: gap (fixation target extinguishes prior to target onset) and
+      overlap (fixation stays on after target onset). Eye movements were recorded with 
+      the Eyeseecam system. (1) Robust gap effect (shorter latencies in gap than in
+      overlap) exists for AD and aMCI patients as for healthy elderly; (2) abnormal
+      long latency of saccades in gap and overlap tasks for AD relative to healthy
+      elderly and aMCI patients; (3) longer latency for aMCI patients than for healthy 
+      elderly for the overlap task; (4) significant correlation between scores of
+      Mini-Mental State Examination (MMSE) and latencies of saccades considering the AD
+      group only; (5) higher coefficient of variation in latency for AD patients than
+      for healthy elderly and for aMCI patients; (6) variability of accuracy and speed 
+      is abnormally higher in AD patients than in aMCI and healthy elderly.
+      Abnormalities of latency and latency–accuracy–speed variability reflect deficits 
+      of cerebral areas involved in the triggering and execution of saccades; latency
+      of saccades can be used as follow-up test for aMCI and AD patients with its
+      significant correlation with the changes of MMSE scores.
+FAU - Yang, Qing
+AU  - Yang Q
+AD  - IRIS group, UMR 8194, CNRS, Hôpital Européen Georges Pompidou, University Paris
+      V, 20 rue Leblanc, 75015 Paris, France
+FAU - Wang, Tao
+AU  - Wang T
+AD  - Department of Geriatric Psychiatry, Shanghai Mental Health Center, Shanghai
+      Jiaotong University School of Medicine; Alzheimer’s Disease and Related Disorders
+      Center,, Shanghai Jiaotong University, 600 Wan Ping Nan Road, 200030 Shanghai,
+      China
+FAU - Su, Ning
+AU  - Su N
+AD  - Department of Geriatric Psychiatry, Shanghai Mental Health Center, Shanghai
+      Jiaotong University School of Medicine; Alzheimer’s Disease and Related Disorders
+      Center,, Shanghai Jiaotong University, 600 Wan Ping Nan Road, 200030 Shanghai,
+      China
+FAU - Xiao, Shifu
+AU  - Xiao S
+AD  - Department of Geriatric Psychiatry, Shanghai Mental Health Center, Shanghai
+      Jiaotong University School of Medicine; Alzheimer’s Disease and Related Disorders
+      Center,, Shanghai Jiaotong University, 600 Wan Ping Nan Road, 200030 Shanghai,
+      China
+FAU - Kapoula, Zoi
+AU  - Kapoula Z
+AD  - IRIS group, UMR 8194, CNRS, Hôpital Européen Georges Pompidou, University Paris
+      V, 20 rue Leblanc, 75015 Paris, France
+LA  - eng
+PT  - Journal Article
+DEP - 20120511
+PHST- 2011/12/27 [received]
+PHST- 2012/04/24 [accepted]
+TA  - Age (Dordr)
+JT  - Age
+AID - 9420 [pii]
+AID - 10.1007/s11357-012-9420-z [doi]
+SO  - Age (Dordr). 2013 Aug;35(4):1287-98. Epub 2012 May 11
+      doi:10.1007/s11357-012-9420-z.
